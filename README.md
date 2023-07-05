@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guccigamp
-- 👀 I’m interested in machine learning, and currently learning Python.
+- 👀 I’m interested in web development and currently learning Python.
 - 📫 How to reach me:
-- instagram: @main.aagom.hai
-- linkedin: https://www.linkedin.com/in/aagam-shah-292811237
+- Instagram: @main.aagom.hai
+- Linkedin: https://www.linkedin.com/in/meet-aagam-shah/
