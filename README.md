@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guccigamp
-- 👀 I’m interested in web development and currently learning Python.
+- 👀 I’m interested in web development and currently learning MERN stack
 - 📫 How to reach me:
 - Instagram: @main.aagom.hai
 - Linkedin: https://www.linkedin.com/in/meet-aagam-shah/
